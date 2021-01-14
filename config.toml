@@ -1,4 +1,4 @@
-baseURL = "https:www.//fortunequotes.com/"
+baseURL = "https://www.fortunequotes.com/"
 languageCode = "en-us"
 title = "Fortune Quotes"
 theme = "minimal"
@@ -7,12 +7,13 @@ googleAnalytics = ""
 
 [params]
     author = "Calin Tataru"
-    description = "Personal blog theme powered by Hugo"
+    description = "( Make Daily 1% Profit* )"
     githubUsername = "#"
     accent = "red"
     showBorder = true
     backgroundColor = "white"
-    font = "Raleway" # should match the name on Google Fonts!
+    font = "Nunito" # should match the name on Google Fonts!
+    #font = "Mali" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
@@ -42,26 +43,17 @@ googleAnalytics = ""
 # The list of available icons can be found at http://fontawesome.io/icons.
 
 [[menu.icon]]
-    url = "mailto:me@example.com"
+    url = "mailto:mail@fortunequotes.com"
     name = "fas fa-envelope"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/username/"
-    name = "fab fa-github"
+    url = "https://t.me/fortunequotes"
+    name = "fab fa-telegram"
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/username/"
+    url = "https://twitter.com/fortunequoteshq/"
     name = "fab fa-twitter"
     weight = 3
 
-[[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
-    name = "fab fa-linkedin"
-    weight = 4
-
-[[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
-    name = "fab fa-stack-overflow"
-    weight = 5
