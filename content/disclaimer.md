@@ -2,7 +2,7 @@
 title: Disclaimer
 description: This website is for informational, educational and discussion purposes only.
 ---
-<div class="alert alert-success">
+<div class="alert alert-danger">
   By accessing FortuneQuotes.com or any of its associate/group sites, you have read, understood and agree to be legally bound by the terms of the following disclaimer and user agreement
 </div>
 
