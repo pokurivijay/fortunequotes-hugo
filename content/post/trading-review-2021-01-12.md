@@ -1,7 +1,7 @@
 ---
-title: "Getting Started with Hugo"
-date: 2014-04-02
-tags: ["go", "golang", "hugo", "development"]
+title: "Trading Review [January 12, 2021]"
+date: 2021-01-12
+tags: [ "Profit", "1%", "0.5%", "Loss"]
 draft: false
 ---
 

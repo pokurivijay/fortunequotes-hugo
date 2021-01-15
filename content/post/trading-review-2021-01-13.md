@@ -1,7 +1,7 @@
 ---
-title: "Migrate from Jekyll"
-date: 2014-03-10
-tags: ["go", "golang", "hugo", "jekyll", "static-site-generator"]
+title: "Trading Review [January 13, 2021]"
+date: 2021-01-13
+tags: [ "profit", "1%", "0.5%", "loss"]
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "(Hu)go Template Primer"
+title: "Trading Review [January 11, 2021]"
 date: 2020-04-02
-tags: [ "go", "golang", "template", "themes", "development"]
+tags: [ "Profit", "1%", "0.5%", "Loss"]
 draft: false
 ---
 

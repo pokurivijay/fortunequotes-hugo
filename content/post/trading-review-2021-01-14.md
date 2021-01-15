@@ -1,7 +1,7 @@
 ---
-title: "Creating a New Theme"
-date: 2014-09-28
-tags: ["go", "golang", "hugo", "themes"]
+title: "Trading Review [January 14, 2021]"
+date: 2021-01-14
+tags: [ "Profit", "1%", "0.5%", "Loss"]
 draft: false
 ---
 
