@@ -1,6 +1,6 @@
 ---
-title: Disclaimer
-description: This website is for informational, educational and discussion purposes only.
+title: Privacy Policy
+description: We Respect Your Privacy
 ---
 <div class="alert alert-success">
   <strong>Success!</strong> Indicates a successful or positive action.

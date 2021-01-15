@@ -3,7 +3,7 @@ title: Instructions
 description: Please Follow the bellow Instructions
 ---
 
-## Step 1. Install Hugo
+#### Step 1. Install Hugo
 
 Goto [hugo releases](https://github.com/spf13/hugo/releases) and download the
 appropriate version for your os and architecture.
@@ -12,7 +12,7 @@ Save it somewhere specific as we will be using it in the next step.
 
 More complete instructions are available at [installing hugo](/overview/installing/)
 
-## Step 2. Build the Docs
+#### Step 2. Build the Docs
 
 Hugo has its own example site which happens to also be the documentation site
 you are reading right now.
@@ -37,7 +37,7 @@ Corresponding pseudo commands:
 
 Once you've gotten here, follow along the rest of this page on your local build.
 
-## Step 3. Change the docs site
+#### Step 3. Change the docs site
 
 Stop the Hugo process by hitting ctrl+c.
 
@@ -72,6 +72,6 @@ Refresh the browser and observe that the typo is now fixed.
 Notice how quick that was. Try to refresh the site before it's finished building.. I double dare you.
 Having nearly instant feedback enables you to have your creativity flow without waiting for long builds.
 
-## Step 4. Have fun
+#### Step 4. Have fun
 
 The best way to learn something is to play with it.
