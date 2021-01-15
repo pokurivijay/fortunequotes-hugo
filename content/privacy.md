@@ -3,11 +3,8 @@ title: Privacy Policy
 description: We Respect Your Privacy
 ---
 <div class="alert alert-success">
-  <strong>Success!</strong> Indicates a successful or positive action.
+  By accessing FortuneQuotes.com or any of its associate/group sites, you have read, understood and agree to be legally bound by the terms of the following disclaimer and user agreement
 </div>
-
-By accessing FortuneQuotes.com or any of its associate/group sites, you have read, understood and agree to be legally bound by the terms of the following disclaimer and user agreement
-
 
 This website is for informational, educational and discussion purposes only. FortuneQuotes.com is not a registered or qualified investment advisor. The views and investment tips expressed by visitors and members on FortuneQuotes.com are their own, and not that of the website or its management. Even though topics may be discussed on this website that involve investment issues, nothing on this website shall be deemed to constitute the practice of investment advice. No reader should act in reliance on anything discussed in this website without prior consultation with a licensed professional who is qualified to evaluate the user’s individual facts and circumstances and offer an informed professional opinion with respect thereto. If any user takes action or makes decisions based on the information on this website without prior consultation with a qualified, licensed professional, the user does so at his or her own risk and agrees that FortuneQuotes.com shall have no financial liability whatsoever to any user on account of the use of information provided on this website.
 
