@@ -1,4 +1,4 @@
-baseURL = "https://www.fortunequotes.com/"
+baseURL = "https://fortunequotes-live.netlify.app/"
 languageCode = "en-us"
 title = "Fortune Quotes"
 theme = "minimal"
